@@ -1,0 +1,50 @@
+- Context-Encoders
+    - https://arxiv.org/abs/1604.07379
+    - https://github.com/pathak22/context-encoder
+- High Resolution Inpainting
+    - https://arxiv.org/abs/1611.09969
+    - https://github.com/leehomyc/Faster-High-Res-Neural-Inpainting
+- on demanding learning
+    - http://vision.cs.utexas.edu/projects/on_demand_learning/
+    - https://github.com/rhgao/on-demand-learning
+- Globally and Locally Consistent Image Completion
+    - http://iizuka.cs.tsukuba.ac.jp/projects/completion/en/
+    - https://github.com/satoshiiizuka/siggraph2017_inpainting
+- Image Inpainting for Irregular Holes Using Partial Convolutions
+    - https://developer.nvidia.com/blog/new-ai-imaging-technique-reconstructs-photos-with-realistic-results/
+    - https://arxiv.org/abs/1804.07723
+    - https://github.com/NVIDIA/partialconv
+- Generative Image Inpainting with Contextual Attention
+    - https://arxiv.org/abs/1801.07892
+    - https://github.com/JiahuiYu/generative_inpainting
+- Free-Form Image Inpainting with Gated Convolution
+    - https://arxiv.org/abs/1806.03589
+    - 
+- Shift-Net: Image Inpainting via Deep Feature Rearrangement
+    - https://arxiv.org/abs/1801.09392
+    - https://github.com/Zhaoyi-Yan/Shift-Net_pytorch
+- Contextual-based Image Inpainting
+    - https://arxiv.org/pdf/1711.08590.pdf
+    - 
+- Semantic Image Inpainting with Progressive Generative Networks
+    - https://dl.acm.org/doi/10.1145/3240508.3240625
+    - https://github.com/crashmoon/Progressive-Generative-Networks
+- Image Inpainting via Generative Multi-column Convolutional Neural Networks
+    - https://arxiv.org/abs/1810.08771
+    - https://github.com/shepnerd/inpainting_gmcnn
+- EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning
+    - https://arxiv.org/pdf/1901.00212.pdf
+    - https://github.com/knazeri/edge-connect
+- Foreground-aware Image Inpainting
+    - https://arxiv.org/abs/1901.05945
+    - 
+- Pluralistic Image Completion
+    - http://www.chuanxiaz.com/publication/pluralistic/
+    - https://arxiv.org/abs/1903.04227
+    - https://github.com/lyndonzheng/Pluralistic-Inpainting
+- MUSICAL: Multi-Scale Image Contextual Attention Learning for Inpainting
+    - http://sigma.whu.edu.cn/newspage.php?q=2019_05_17
+    - 
+- Coherent Semantic Attention for Image Inpainting
+    - https://arxiv.org/abs/1905.12384
+    - https://github.com/KumapowerLIU
